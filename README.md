@@ -1,2 +1,4 @@
 ##HEADING 
 THIS IS SOME TEXT  I WANT TO CHECK STH
+##INFO
+i also put sth here!
